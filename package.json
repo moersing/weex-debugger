@@ -57,7 +57,7 @@
     "parse-hosts": "^1.0.1",
     "puppeteer": "^1.0.0",
     "request": "^2.83.0",
-    "weex-builder": "git+ssh://git@github.com:moersing/weex-builder.git",
+    "weex-builder": "https://github.com/moersing/weex-debugger.git#feature/rebuild",
     "ws": "^2.2.0"
   },
   "bin": {
