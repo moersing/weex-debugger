@@ -58,7 +58,7 @@
     "puppeteer": "^1.0.0",
     "request": "^2.83.0",
     "ws": "^2.2.0",
-    "weex-builder": "git+https://github.com/moersing/weex-builder.git"
+    "weex-builder": "git+https://github.com/moersing/weex-builder.git#feature/rebuild"
   },
   "bin": {
     "weex-debugger": "bin/weex-devtool.js"
