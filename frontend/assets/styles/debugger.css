@@ -2975,15 +2975,13 @@ details[open] > summary::before {
     color: #000;
     bottom: 0;
     margin: 0;
-    white-space: nowrap;
-    height: 30px;
+    max-height: 30px;
     width: 100%;
     display: block;
     text-overflow: ellipsis;
-    line-height: 30px;
-    overflow: hidden;
+    line-height: 15px;
     word-wrap: break-word;
-    max-height: 30px; }
+    height: 30px; }
 
 #qrcode_btn {
   position: relative;
